@@ -45,6 +45,16 @@
 
 ## 라우터 설정
 
+| 경로              | 설명           |
+| ----------------- | -------------- |
+| /                 | 홈             |
+| /company/interest | 관심 종목      |
+| /company/ipo      | IPO            |
+| /company/detail   | 기업 상세 정보 |
+| /search           | 검색           |
+| /settings         | 설정           |
+| /login            | 로그인         |
+
 <br />
 
 ## 페이지 설계
