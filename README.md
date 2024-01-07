@@ -40,6 +40,8 @@
 
 ## 요구사항 정리
 
+<img width="327" alt="요구사항 정리" src="https://github.com/devkmins/Fico/assets/59950909/87db400b-3685-496a-8a57-ba24ecae5c4f">
+
 <br />
 
 ## 라우터 설정
