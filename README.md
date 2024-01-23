@@ -80,7 +80,7 @@ Stomaw은 기업 정보 및 주가, IPO 일정, 뉴스 등의 유용한 정보�
 | /company/ipo      | IPO            |
 | /company/detail   | 기업 상세 정보 |
 | /search           | 검색           |
-| /settings         | 설정           |
+| /supports         | 고객 지원      |
 | /login            | 로그인         |
 
 <br />
